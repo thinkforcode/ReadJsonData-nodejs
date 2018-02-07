@@ -1,0 +1,5 @@
+1. This is the nodejs web application
+2.read json file from data/data.json file using nodejs/express and so on
+3.get people by their id concept also in this project
+4.youtube videos awais mirza
+

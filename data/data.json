@@ -1,0 +1,38 @@
+{
+	"people":[
+		{
+			"id":1,
+			"name":"manmohan",
+			"email":"thinkforcode@gmail.com",
+			"phone":"9871514030"
+
+	   },
+
+	   	{
+			"id":2,
+			"name":"karna",
+			"email":"thinkforcode2@gmail.com",
+			"phone":"9871514030"
+
+	   },
+
+
+	   	{
+			"id":3,
+			"name":"abhishek",
+			"email":"thinkforcode@gmail.com",
+			"phone":"9871514030"
+
+	   },
+
+	   	{
+			"id":4,
+			"name":"avinash",
+			"email":"thinkforcode@gmail.com",
+			"phone":"42753756"
+
+	   }
+
+]
+
+}

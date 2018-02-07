@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-2018",
+  "version": "1.0.0",
+  "description": "this is the nodejs-2018 project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Manmohan Kumar Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
